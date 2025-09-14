@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 # ====== TOKEN ======
-BOT_TOKEN = "8004217085:AAFWJHC27kNYnXzS0_LKyOIVaQoE8eZxaCI"  # hoặc để rỗng và set ENV BOT_TOKEN
+BOT_TOKEN = "8004217085:AAFLliCuHX41ejVj_IEToXNm9zfxspl5nJE"  # hoặc để rỗng và set ENV BOT_TOKEN
 
 # ====== LOGGING ======
 logging.basicConfig(
